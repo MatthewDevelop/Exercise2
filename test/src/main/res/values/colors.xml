@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <drawable name="transparent">#00000000</drawable>
+
+    <color name="common_white">#ffffff</color>
+    <color name="listview_gray">#cccccc</color>
+    <color name="view_backgroud">#f1f1f1</color>
+    <color name="back_darkgray">#f7f7f7</color>
+    <color name="divider_line">#d5d7dc</color>
+    <color name="colorPrimary">#FC8527</color>
+    <color name="colorPrimaryDark">#FE8E38</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorGray">#999999</color>
+    <color name="colorDailyTopBackground">#F86543</color>
+    <color name="colorDailyTopBackground2">#FD8548</color>
+    <color name="colorDailyListViewTitle">#EEEEEE</color>
+    <color name="colorDailyListViewTopTitle">#ED7119</color>
+    <color name="colorDailySearch">#FDE6BA</color>
+    <color name="background_light">#fafafa</color> <!-- grey 50 -->
+
+
+</resources>

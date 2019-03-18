@@ -1,0 +1,1 @@
+include ':DatabaseDemo', ':ContentProviderDemo', ':MediaDemo', ':NetworkDemo', ':ServiceDemo', ':BestServicePractice', ':MaterialDesignDemo', ':testmodule', ':PasswordDemo', ':cmdtest', ':test', ':copyfile'

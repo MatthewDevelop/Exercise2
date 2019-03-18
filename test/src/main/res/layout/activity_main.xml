@@ -1,0 +1,40 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.foxconn.test.MainActivity" >
+
+    <Button
+        android:id="@+id/btn_01"
+        android:text="ShowActivity"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        />
+    <Button
+        android:id="@+id/btn_02"
+        android:text="MainKsoap2Activity"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"/>
+    <Button
+        android:id="@+id/btn_03"
+        android:text="CallWebServiceActivity"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"/>
+    <Button
+        android:id="@+id/btn_04"
+        android:text="WsActivity"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"/>
+    <Button
+        android:id="@+id/btn_05"
+        android:text="TestActivity"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"/>
+    <Button
+        android:id="@+id/btn_06"
+        android:text="SocketActivity"
+        android:layout_width="match_parent"
+        android:layout_height="50dp" />
+
+</LinearLayout>

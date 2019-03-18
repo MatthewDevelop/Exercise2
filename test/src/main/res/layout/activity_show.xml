@@ -1,0 +1,41 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:id="@+id/fragment"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="horizontal"
+        android:layout_above="@+id/rg_bottom">
+    </LinearLayout>
+    <RadioGroup
+        android:id="@+id/rg_bottom"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:orientation="horizontal">
+        <RadioButton
+            android:id="@+id/rbtn_daily"
+            android:text="日常"
+            android:drawableTop="@drawable/radio_button_daily"
+            style="@style/BottomTabStyle" />
+        <RadioButton
+            android:text="报告"
+            android:id="@+id/rbtn_report"
+            android:drawableTop="@drawable/radio_button_report"
+            style="@style/BottomTabStyle" />
+        <RadioButton
+            android:text="工具"
+            android:id="@+id/rbtn_tools"
+            android:drawableTop="@drawable/radio_button_tools"
+            style="@style/BottomTabStyle" />
+        <RadioButton
+            android:text="设置"
+            android:id="@+id/rbtn_settings"
+            android:drawableTop="@drawable/radio_button_settings"
+            style="@style/BottomTabStyle" />
+
+    </RadioGroup>
+
+</RelativeLayout>

@@ -1,0 +1,32 @@
+POST请求
+
+client_b_keystore.jks 客户端自身的身份信息
+client_b_trust.jks 客户端所信任的身份信息，在此例中也就是包含了服务器的身份信息
+
+
+加密数据用户信息：
+
+用户名：Bob
+密码：Bob
+
+签名Key文件：client_b_keystore.jks
+签名用户名：aclientprivate
+签名用户密码：bclientpasswd
+
+加密Key文件：client_b_trust.jks
+加密用户名：aserverpublic
+加密用户密码：bserverpasswd
+
+
+解析数据用户信息：
+
+用户名：Bob
+密码：Bob
+
+验证签名Key文件：client_b_trust.jks
+验证签名用户名：aserverpublic
+验证签名用户密码：bserverpasswd
+
+解密Key文件：client_b_keystore.jks
+解密用户名：aclientprivate
+解密用户密码：bclientpasswd

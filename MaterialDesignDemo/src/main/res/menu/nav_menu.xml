@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/chicken"
+            android:icon="@drawable/chicken"
+            android:title="Chicken" />
+        <item
+            android:id="@+id/koala"
+            android:icon="@drawable/koala"
+            android:title="Koala" />
+        <item
+            android:id="@+id/pig"
+            android:icon="@drawable/pig"
+            android:title="Pig" />
+        <item
+            android:id="@+id/tiger"
+            android:icon="@drawable/tiger"
+            android:title="Tiger" />
+        <item
+            android:id="@+id/whale"
+            android:icon="@drawable/whale"
+            android:title="Whale" />
+    </group>
+
+</menu>

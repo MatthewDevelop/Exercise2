@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<litepal>
+    <dbname company_code="BookStore"></dbname>
+    <version company_code="3"></version>
+    <list>
+        <mapping class="com.foxconn.matthew.databasedemo.Book"></mapping>
+        <mapping class="com.foxconn.matthew.databasedemo.Category"></mapping>
+    </list>
+</litepal>

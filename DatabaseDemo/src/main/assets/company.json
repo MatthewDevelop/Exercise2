@@ -1,0 +1,1596 @@
+{
+  "rows": [
+    {
+      "key": "AOL澳通速递",
+      "value": "aolau"
+    },
+    {
+      "key": "A2U速递",
+      "value": "a2u"
+    },
+    {
+      "key": "AAE快递",
+      "value": "aae"
+    },
+    {
+      "key": "安能物流",
+      "value": "annengwuliu"
+    },
+    {
+      "key": "安迅物流",
+      "value": "anxl"
+    },
+    {
+      "key": "澳邮中国快运",
+      "value": "auexpress"
+    },
+    {
+      "key": "安鲜达",
+      "value": "exfresh"
+    },
+    {
+      "key": "安捷物流",
+      "value": "anjie88"
+    },
+    {
+      "key": "BCWELT",
+      "value": "bcwelt"
+    },
+    {
+      "key": "百世快运",
+      "value": "baishiwuliu"
+    },
+    {
+      "key": "百世快递",
+      "value": "huitongkuaidi"
+    },
+    {
+      "key": "包裹/平邮/挂号信",
+      "value": "youzhengguonei"
+    },
+    {
+      "key": "百福东方物流",
+      "value": "baifudongfang"
+    },
+    {
+      "key": "邦送物流",
+      "value": "bangsongwuliu"
+    },
+    {
+      "key": "北青小红帽",
+      "value": "xiaohongmao"
+    },
+    {
+      "key": "宝凯物流",
+      "value": "lbbk"
+    },
+    {
+      "key": "百千诚物流",
+      "value": "bqcwl"
+    },
+    {
+      "key": "博源恒通",
+      "value": "byht"
+    },
+    {
+      "key": "百成大达物流",
+      "value": "idada"
+    },
+    {
+      "key": "百腾物流",
+      "value": "baitengwuliu"
+    },
+    {
+      "key": "巴伦支快递",
+      "value": "balunzhi"
+    },
+    {
+      "key": "笨鸟海淘",
+      "value": "birdex"
+    },
+    {
+      "key": "百事亨通",
+      "value": "bsht"
+    },
+    {
+      "key": "奔腾物流",
+      "value": "benteng"
+    },
+    {
+      "key": "布谷鸟速递",
+      "value": "cuckooexpess"
+    },
+    {
+      "key": "邦工快运",
+      "value": "bgky100"
+    },
+    {
+      "key": "堡昕德速递",
+      "value": "bosind"
+    },
+    {
+      "key": "斑马物联网",
+      "value": "banma"
+    },
+    {
+      "key": "CE易欧通国际速递",
+      "value": "cloudexpress"
+    },
+    {
+      "key": "COE（东方快递）",
+      "value": "coe"
+    },
+    {
+      "key": "城市100",
+      "value": "city100"
+    },
+    {
+      "key": "城际速递",
+      "value": "chengjisudi"
+    },
+    {
+      "key": "成都立即送",
+      "value": "lijisong"
+    },
+    {
+      "key": "出口易",
+      "value": "chukou1"
+    },
+    {
+      "key": "晟邦物流",
+      "value": "nanjingshengbang"
+    },
+    {
+      "key": "程光快递",
+      "value": "flyway"
+    },
+    {
+      "key": "传喜物流",
+      "value": "chuanxiwuliu"
+    },
+    {
+      "key": "钏博物流",
+      "value": "cbo56"
+    },
+    {
+      "key": "城铁物流",
+      "value": "cex"
+    },
+    {
+      "key": "DHL中国",
+      "value": "dhl"
+    },
+    {
+      "key": "DHL国际",
+      "value": "dhlen"
+    },
+    {
+      "key": "DHL德国",
+      "value": "dhlde"
+    },
+    {
+      "key": "德邦",
+      "value": "debangwuliu"
+    },
+    {
+      "key": "大田物流",
+      "value": "datianwuliu"
+    },
+    {
+      "key": "东方快递",
+      "value": "coe"
+    },
+    {
+      "key": "递四方",
+      "value": "disifang"
+    },
+    {
+      "key": "大洋物流",
+      "value": "dayangwuliu"
+    },
+    {
+      "key": "店通快递",
+      "value": "diantongkuaidi"
+    },
+    {
+      "key": "德创物流",
+      "value": "dechuangwuliu"
+    },
+    {
+      "key": "东红物流",
+      "value": "donghong"
+    },
+    {
+      "key": "D速物流",
+      "value": "dsukuaidi"
+    },
+    {
+      "key": "东瀚物流",
+      "value": "donghanwl"
+    },
+    {
+      "key": "达方物流",
+      "value": "dfpost"
+    },
+    {
+      "key": "东骏快捷物流",
+      "value": "dongjun"
+    },
+    {
+      "key": "叮咚澳洲转运",
+      "value": "dindon"
+    },
+    {
+      "key": "大众佐川急便",
+      "value": "dazhong"
+    },
+    {
+      "key": "德方物流",
+      "value": "ahdf"
+    },
+    {
+      "key": "德中快递",
+      "value": "decnlh"
+    },
+    {
+      "key": "德坤供应链",
+      "value": "dekuncn"
+    },
+    {
+      "key": "达速物流",
+      "value": "dasu"
+    },
+    {
+      "key": "德豪驿",
+      "value": "dehaoyi"
+    },
+    {
+      "key": "DHL Paket",
+      "value": "dhlpaket"
+    },
+    {
+      "key": "德国优拜物流",
+      "value": "ubuy"
+    },
+    {
+      "key": "德国雄鹰速递",
+      "value": "adlerlogi"
+    },
+    {
+      "key": "德国云快递",
+      "value": "yunexpress"
+    },
+    {
+      "key": "EU-EXPRESS",
+      "value": "euexpress"
+    },
+    {
+      "key": "EMS快递查询",
+      "value": "ems"
+    },
+    {
+      "key": "EMS国际快递查询",
+      "value": "emsguoji"
+    },
+    {
+      "key": "俄顺达",
+      "value": "eshunda"
+    },
+    {
+      "key": "EWE全球快递",
+      "value": "ewe"
+    },
+    {
+      "key": "FedEx快递查询",
+      "value": "fedex"
+    },
+    {
+      "key": "FedEx美国",
+      "value": "fedexus"
+    },
+    {
+      "key": "FedEx英国",
+      "value": "fedexuk"
+    },
+    {
+      "key": "FOX国际速递",
+      "value": "fox"
+    },
+    {
+      "key": "凡客如风达",
+      "value": "rufengda"
+    },
+    {
+      "key": "飞康达物流",
+      "value": "feikangda"
+    },
+    {
+      "key": "飞豹快递",
+      "value": "feibaokuaidi"
+    },
+    {
+      "key": "飞狐快递",
+      "value": "feihukuaidi"
+    },
+    {
+      "key": "凡宇速递",
+      "value": "fanyukuaidi"
+    },
+    {
+      "key": "颿达国际快递",
+      "value": "fandaguoji"
+    },
+    {
+      "key": "飞远配送",
+      "value": "feiyuanvipshop"
+    },
+    {
+      "key": "飞鹰物流",
+      "value": "hnfy"
+    },
+    {
+      "key": "风行天下",
+      "value": "fengxingtianxia"
+    },
+    {
+      "key": "飞力士物流",
+      "value": "flysman"
+    },
+    {
+      "key": "飞邦快递",
+      "value": "fbkd"
+    },
+    {
+      "key": "丰程物流",
+      "value": "sccod"
+    },
+    {
+      "key": "泛远国际物流",
+      "value": "farlogistis"
+    },
+    {
+      "key": "疯狂快递",
+      "value": "crazyexpress"
+    },
+    {
+      "key": "法翔速运",
+      "value": "ftlexpress"
+    },
+    {
+      "key": "富腾达快递",
+      "value": "ftd"
+    },
+    {
+      "key": "GLS",
+      "value": "gls"
+    },
+    {
+      "key": "GSM",
+      "value": "gsm"
+    },
+    {
+      "key": "GATI快递",
+      "value": "gaticn"
+    },
+    {
+      "key": "GTS快递",
+      "value": "gts"
+    },
+    {
+      "key": "挂号信/国内邮件",
+      "value": "youzhengguonei"
+    },
+    {
+      "key": "国通快递",
+      "value": "guotongkuaidi"
+    },
+    {
+      "key": "国际邮件查询",
+      "value": "youzhengguoji"
+    },
+    {
+      "key": "港中能达物流",
+      "value": "ganzhongnengda"
+    },
+    {
+      "key": "港快速递",
+      "value": "gdkd"
+    },
+    {
+      "key": "共速达",
+      "value": "gongsuda"
+    },
+    {
+      "key": "广通速递（山东）",
+      "value": "gtongsudi"
+    },
+    {
+      "key": "高铁速递",
+      "value": "hre"
+    },
+    {
+      "key": "冠达快递",
+      "value": "gda"
+    },
+    {
+      "key": "哥士传奇速递",
+      "value": "gscq365"
+    },
+    {
+      "key": "冠捷物流",
+      "value": "gjwl"
+    },
+    {
+      "key": "国晶物流",
+      "value": "xdshipping"
+    },
+    {
+      "key": "华宇物流",
+      "value": "tiandihuayu"
+    },
+    {
+      "key": "恒路物流",
+      "value": "hengluwuliu"
+    },
+    {
+      "key": "好来运快递",
+      "value": "hlyex"
+    },
+    {
+      "key": "华夏龙物流",
+      "value": "huaxialongwuliu"
+    },
+    {
+      "key": "海航天天",
+      "value": "tiantian"
+    },
+    {
+      "key": "河北建华",
+      "value": "hebeijianhua"
+    },
+    {
+      "key": "海盟速递",
+      "value": "haimengsudi"
+    },
+    {
+      "key": "华企快运",
+      "value": "huaqikuaiyun"
+    },
+    {
+      "key": "昊盛物流",
+      "value": "haoshengwuliu"
+    },
+    {
+      "key": "户通物流",
+      "value": "hutongwuliu"
+    },
+    {
+      "key": "华航快递",
+      "value": "hzpl"
+    },
+    {
+      "key": "黄马甲快递",
+      "value": "huangmajia"
+    },
+    {
+      "key": "合众速递（UCS）",
+      "value": "ucs"
+    },
+    {
+      "key": "皇家物流",
+      "value": "pfcexpress"
+    },
+    {
+      "key": "伙伴物流",
+      "value": "huoban"
+    },
+    {
+      "key": "红马速递",
+      "value": "nedahm"
+    },
+    {
+      "key": "汇文配送",
+      "value": "huiwen"
+    },
+    {
+      "key": "华赫物流",
+      "value": "nmhuahe"
+    },
+    {
+      "key": "猴急送",
+      "value": "hjs"
+    },
+    {
+      "key": "航宇快递",
+      "value": "hangyu"
+    },
+    {
+      "key": "辉联物流",
+      "value": "huilian"
+    },
+    {
+      "key": "环球速运",
+      "value": "huanqiu"
+    },
+    {
+      "key": "华达快运",
+      "value": "huada"
+    },
+    {
+      "key": "华通务达物流",
+      "value": "htwd"
+    },
+    {
+      "key": "海派通",
+      "value": "hipito"
+    },
+    {
+      "key": "环球通达",
+      "value": "hqtd"
+    },
+    {
+      "key": "航空快递",
+      "value": "airgtc"
+    },
+    {
+      "key": "好又快物流",
+      "value": "haoyoukuai"
+    },
+    {
+      "key": "韩润物流",
+      "value": "hanrun"
+    },
+    {
+      "key": "河南次晨达",
+      "value": "ccd"
+    },
+    {
+      "key": "和丰同城",
+      "value": "hfwuxi"
+    },
+    {
+      "key": "荷兰 Sky Post",
+      "value": "skypost"
+    },
+    {
+      "key": "鸿讯物流",
+      "value": "hongxun"
+    },
+    {
+      "key": "宏捷国际物流",
+      "value": "hongjie"
+    },
+    {
+      "key": "汇通天下物流",
+      "value": "httx56"
+    },
+    {
+      "key": "恒通快递",
+      "value": "lqht"
+    },
+    {
+      "key": "黑狗物流",
+      "value": "higo"
+    },
+    {
+      "key": "恒宇运通",
+      "value": "hyytes"
+    },
+    {
+      "key": "恒瑞物流",
+      "value": "hengrui56"
+    },
+    {
+      "key": "环创物流",
+      "value": "ghl"
+    },
+    {
+      "key": "河南全速通",
+      "value": "hnqst"
+    },
+    {
+      "key": "佳吉物流",
+      "value": "jiajiwuliu"
+    },
+    {
+      "key": "佳怡物流",
+      "value": "jiayiwuliu"
+    },
+    {
+      "key": "加运美快递",
+      "value": "jiayunmeiwuliu"
+    },
+    {
+      "key": "急先达物流",
+      "value": "jixianda"
+    },
+    {
+      "key": "京广速递快件",
+      "value": "jinguangsudikuaijian"
+    },
+    {
+      "key": "晋越快递",
+      "value": "jinyuekuaidi"
+    },
+    {
+      "key": "京东快递",
+      "value": "jd"
+    },
+    {
+      "key": "捷特快递",
+      "value": "jietekuaidi"
+    },
+    {
+      "key": "久易快递",
+      "value": "jiuyicn"
+    },
+    {
+      "key": "九曳供应链",
+      "value": "jiuyescm"
+    },
+    {
+      "key": "骏丰国际速递",
+      "value": "junfengguoji"
+    },
+    {
+      "key": "佳家通",
+      "value": "jiajiatong56"
+    },
+    {
+      "key": "吉日优派",
+      "value": "jrypex"
+    },
+    {
+      "key": "锦程国际物流",
+      "value": "jinchengwuliu"
+    },
+    {
+      "key": "景光物流",
+      "value": "jgwl"
+    },
+    {
+      "key": "急顺通",
+      "value": "pzhjst"
+    },
+    {
+      "key": "捷网俄全通",
+      "value": "ruexp"
+    },
+    {
+      "key": "嘉里大通",
+      "value": "jialidatong"
+    },
+    {
+      "key": "金马甲",
+      "value": "jmjss"
+    },
+    {
+      "key": "佳成快递",
+      "value": "jiacheng"
+    },
+    {
+      "key": "骏绅物流",
+      "value": "jsexpress"
+    },
+    {
+      "key": "锦程快递",
+      "value": "hrex"
+    },
+    {
+      "key": "快捷快递",
+      "value": "kuaijiesudi"
+    },
+    {
+      "key": "康力物流",
+      "value": "kangliwuliu"
+    },
+    {
+      "key": "跨越速运",
+      "value": "kuayue"
+    },
+    {
+      "key": "快优达速递",
+      "value": "kuaiyouda"
+    },
+    {
+      "key": "快淘快递",
+      "value": "kuaitao"
+    },
+    {
+      "key": "开心快递",
+      "value": "happylink"
+    },
+    {
+      "key": "联邦快递",
+      "value": "lianbangkuaidi"
+    },
+    {
+      "key": "联昊通物流",
+      "value": "lianhaowuliu"
+    },
+    {
+      "key": "龙邦速递",
+      "value": "longbanwuliu"
+    },
+    {
+      "key": "乐捷递",
+      "value": "lejiedi"
+    },
+    {
+      "key": "立即送",
+      "value": "lijisong"
+    },
+    {
+      "key": "蓝弧快递",
+      "value": "lanhukuaidi"
+    },
+    {
+      "key": "乐天速递",
+      "value": "ltexp"
+    },
+    {
+      "key": "鲁通快运",
+      "value": "lutong"
+    },
+    {
+      "key": "乐递供应链",
+      "value": "ledii"
+    },
+    {
+      "key": "论道国际物流",
+      "value": "lundao"
+    },
+    {
+      "key": "林安物流",
+      "value": "lasy56"
+    },
+    {
+      "key": "ME物流",
+      "value": "macroexpressco"
+    },
+    {
+      "key": "民航快递",
+      "value": "minghangkuaidi"
+    },
+    {
+      "key": "美国快递",
+      "value": "meiguokuaidi"
+    },
+    {
+      "key": "门对门",
+      "value": "menduimen"
+    },
+    {
+      "key": "明亮物流",
+      "value": "mingliangwuliu"
+    },
+    {
+      "key": "民邦速递",
+      "value": "minbangsudi"
+    },
+    {
+      "key": "闽盛快递",
+      "value": "minshengkuaidi"
+    },
+    {
+      "key": "麦力快递",
+      "value": "mailikuaidi"
+    },
+    {
+      "key": "木春货运",
+      "value": "mchy"
+    },
+    {
+      "key": "美快国际物流",
+      "value": "meiquick"
+    },
+    {
+      "key": "美通快递",
+      "value": "valueway"
+    },
+    {
+      "key": "马珂博逻",
+      "value": "cnmcpl"
+    },
+    {
+      "key": "能达速递",
+      "value": "ganzhongnengda"
+    },
+    {
+      "key": "偌亚奥国际",
+      "value": "nuoyaao"
+    },
+    {
+      "key": "诺尔国际物流",
+      "value": "nuoer"
+    },
+    {
+      "key": "尼尔快递",
+      "value": "nell"
+    },
+    {
+      "key": "OCS",
+      "value": "ocs"
+    },
+    {
+      "key": "欧亚专线",
+      "value": "euasia"
+    },
+    {
+      "key": "PCA Express",
+      "value": "pcaexpress"
+    },
+    {
+      "key": "平安达腾飞",
+      "value": "pingandatengfei"
+    },
+    {
+      "key": "陪行物流",
+      "value": "peixingwuliu"
+    },
+    {
+      "key": "品骏快递",
+      "value": "pjbest"
+    },
+    {
+      "key": "鹏远国际速递",
+      "value": "pengyuanexpress"
+    },
+    {
+      "key": "全峰快递",
+      "value": "quanfengkuaidi"
+    },
+    {
+      "key": "全一快递",
+      "value": "quanyikuaidi"
+    },
+    {
+      "key": "全日通快递",
+      "value": "quanritongkuaidi"
+    },
+    {
+      "key": "全晨快递",
+      "value": "quanchenkuaidi"
+    },
+    {
+      "key": "7天连锁物流",
+      "value": "sevendays"
+    },
+    {
+      "key": "秦邦快运",
+      "value": "qbexpress"
+    },
+    {
+      "key": "全信通快递",
+      "value": "quanxintong"
+    },
+    {
+      "key": "全速通国际快递",
+      "value": "quansutong"
+    },
+    {
+      "key": "秦远物流",
+      "value": "qinyuan"
+    },
+    {
+      "key": "启辰国际物流",
+      "value": "qichen"
+    },
+    {
+      "key": "全速快运",
+      "value": "quansu"
+    },
+    {
+      "key": "全之鑫物流",
+      "value": "qzx56"
+    },
+    {
+      "key": "千顺快递",
+      "value": "qskdyxgs"
+    },
+    {
+      "key": "全时速运",
+      "value": "runhengfeng"
+    },
+    {
+      "key": "如风达快递",
+      "value": "rufengda"
+    },
+    {
+      "key": "日昱物流",
+      "value": "riyuwuliu"
+    },
+    {
+      "key": "瑞丰速递",
+      "value": "rfsd"
+    },
+    {
+      "key": "日日顺物流",
+      "value": "rrs"
+    },
+    {
+      "key": "日益通速递",
+      "value": "rytsd"
+    },
+    {
+      "key": "瑞达国际速递",
+      "value": "ruidaex"
+    },
+    {
+      "key": "日日顺快线",
+      "value": "rrskx"
+    },
+    {
+      "key": "容智物流速运",
+      "value": "gdrz58"
+    },
+    {
+      "key": "顺丰速运",
+      "value": "shunfeng"
+    },
+    {
+      "key": "申通快递",
+      "value": "shentong"
+    },
+    {
+      "key": "速尔快递",
+      "value": "suer"
+    },
+    {
+      "key": "山东海红",
+      "value": "haihongwangsong"
+    },
+    {
+      "key": "盛辉物流",
+      "value": "shenghuiwuliu"
+    },
+    {
+      "key": "世运快递",
+      "value": "shiyunkuaidi"
+    },
+    {
+      "key": "盛丰物流",
+      "value": "shengfengwuliu"
+    },
+    {
+      "key": "上大物流",
+      "value": "shangda"
+    },
+    {
+      "key": "三态速递",
+      "value": "santaisudi"
+    },
+    {
+      "key": "赛澳递",
+      "value": "saiaodi"
+    },
+    {
+      "key": "申通E物流",
+      "value": "shentong"
+    },
+    {
+      "key": "圣安物流",
+      "value": "shenganwuliu"
+    },
+    {
+      "key": "山西红马甲",
+      "value": "sxhongmajia"
+    },
+    {
+      "key": "穗佳物流",
+      "value": "suijiawuliu"
+    },
+    {
+      "key": "沈阳佳惠尔",
+      "value": "syjiahuier"
+    },
+    {
+      "key": "上海林道货运",
+      "value": "shlindao"
+    },
+    {
+      "key": "十方通物流",
+      "value": "sfift"
+    },
+    {
+      "key": "山东广通速递",
+      "value": "gtongsudi"
+    },
+    {
+      "key": "顺捷丰达",
+      "value": "shunjiefengda"
+    },
+    {
+      "key": "速必达物流",
+      "value": "subida"
+    },
+    {
+      "key": "速通成达物流",
+      "value": "htwd"
+    },
+    {
+      "key": "速腾物流",
+      "value": "suteng"
+    },
+    {
+      "key": "速方国际物流",
+      "value": "bphchina"
+    },
+    {
+      "key": "顺通快递",
+      "value": "stkd"
+    },
+    {
+      "key": "速递中国",
+      "value": "sendtochina"
+    },
+    {
+      "key": "苏宁快递",
+      "value": "suning"
+    },
+    {
+      "key": "四海快递",
+      "value": "sihaiet"
+    },
+    {
+      "key": "首通快运",
+      "value": "staky"
+    },
+    {
+      "key": "顺时达物流",
+      "value": "hnssd56"
+    },
+    {
+      "key": "Superb Grace",
+      "value": "superb"
+    },
+    {
+      "key": "圣飞捷快递",
+      "value": "sfjhd"
+    },
+    {
+      "key": "上海航瑞货运",
+      "value": "hangrui"
+    },
+    {
+      "key": "嗖一下同城快递",
+      "value": "sofast56"
+    },
+    {
+      "key": "天天快递",
+      "value": "tiantian"
+    },
+    {
+      "key": "TNT快递",
+      "value": "tnt"
+    },
+    {
+      "key": "天地华宇",
+      "value": "tiandihuayu"
+    },
+    {
+      "key": "通和天下",
+      "value": "tonghetianxia"
+    },
+    {
+      "key": "天纵物流",
+      "value": "tianzong"
+    },
+    {
+      "key": "同舟行物流",
+      "value": "chinatzx"
+    },
+    {
+      "key": "腾达速递",
+      "value": "nntengda"
+    },
+    {
+      "key": "泰国138",
+      "value": "sd138"
+    },
+    {
+      "key": "通达兴物流",
+      "value": "tongdaxing"
+    },
+    {
+      "key": "天联快运",
+      "value": "tlky"
+    },
+    {
+      "key": "途鲜物流",
+      "value": "ibenben"
+    },
+    {
+      "key": "淘韩国际快递",
+      "value": "krtao"
+    },
+    {
+      "key": "特急送",
+      "value": "lntjs"
+    },
+    {
+      "key": "UPS快递查询",
+      "value": "ups"
+    },
+    {
+      "key": "UC优速快递",
+      "value": "youshuwuliu"
+    },
+    {
+      "key": "UCS（合众速递）",
+      "value": "ucs"
+    },
+    {
+      "key": "USPS美国邮政",
+      "value": "usps"
+    },
+    {
+      "key": "UEQ快递",
+      "value": "ueq"
+    },
+    {
+      "key": "万象物流",
+      "value": "wanxiangwuliu"
+    },
+    {
+      "key": "微特派",
+      "value": "weitepai"
+    },
+    {
+      "key": "万家物流",
+      "value": "wanjiawuliu"
+    },
+    {
+      "key": "万博快递",
+      "value": "wanboex"
+    },
+    {
+      "key": "万家通",
+      "value": "timedg"
+    },
+    {
+      "key": "威时沛运",
+      "value": "wtdchina"
+    },
+    {
+      "key": "微转运",
+      "value": "wzhaunyun"
+    },
+    {
+      "key": "万通快递",
+      "value": "gswtkd"
+    },
+    {
+      "key": "渥途国际速运",
+      "value": "wotu"
+    },
+    {
+      "key": "豌豆物流",
+      "value": "wandougongzhu"
+    },
+    {
+      "key": "万家康物流",
+      "value": "wjkwl"
+    },
+    {
+      "key": "希优特快递",
+      "value": "xiyoutekuaidi"
+    },
+    {
+      "key": "新邦物流",
+      "value": "xinbangwuliu"
+    },
+    {
+      "key": "信丰物流",
+      "value": "xinfengwuliu"
+    },
+    {
+      "key": "新蛋物流",
+      "value": "neweggozzo"
+    },
+    {
+      "key": "祥龙运通物流",
+      "value": "xianglongyuntong"
+    },
+    {
+      "key": "西安城联速递",
+      "value": "xianchengliansudi"
+    },
+    {
+      "key": "喜来快递",
+      "value": "xilaikd"
+    },
+    {
+      "key": "鑫世锐达",
+      "value": "xsrd"
+    },
+    {
+      "key": "鑫通宝物流",
+      "value": "xtb"
+    },
+    {
+      "key": "信天捷快递",
+      "value": "xintianjie"
+    },
+    {
+      "key": "西安胜峰",
+      "value": "xaetc"
+    },
+    {
+      "key": "新顺丰（NSF）",
+      "value": "nsf"
+    },
+    {
+      "key": "先锋快递",
+      "value": "xianfeng"
+    },
+    {
+      "key": "新速航",
+      "value": "sunspeedy"
+    },
+    {
+      "key": "西邮寄",
+      "value": "xipost"
+    },
+    {
+      "key": "信联通",
+      "value": "sinatone"
+    },
+    {
+      "key": "新杰物流",
+      "value": "sunjex"
+    },
+    {
+      "key": "心怡物流",
+      "value": "alog"
+    },
+    {
+      "key": "新时速物流",
+      "value": "csxss"
+    },
+    {
+      "key": "翔腾物流",
+      "value": "xiangteng"
+    },
+    {
+      "key": "西翼物流",
+      "value": "westwing"
+    },
+    {
+      "key": "小熊物流",
+      "value": "littlebearbear"
+    },
+    {
+      "key": "鑫和高铁快运",
+      "value": "gaotieex"
+    },
+    {
+      "key": "圆通速递",
+      "value": "yuantong"
+    },
+    {
+      "key": "韵达快递",
+      "value": "yunda"
+    },
+    {
+      "key": "韵达美国件",
+      "value": "yundaexus"
+    },
+    {
+      "key": "邮政国内",
+      "value": "youzhengguonei"
+    },
+    {
+      "key": "邮政国际",
+      "value": "youzhengguoji"
+    },
+    {
+      "key": "邮政EMS速递",
+      "value": "ems"
+    },
+    {
+      "key": "运通快递",
+      "value": "yuntongkuaidi"
+    },
+    {
+      "key": "宇鑫物流",
+      "value": "yuxinwuliu"
+    },
+    {
+      "key": "远成物流",
+      "value": "yuanchengwuliu"
+    },
+    {
+      "key": "优速快递",
+      "value": "youshuwuliu"
+    },
+    {
+      "key": "越丰物流",
+      "value": "yuefengwuliu"
+    },
+    {
+      "key": "源安达快递",
+      "value": "yuananda"
+    },
+    {
+      "key": "原飞航物流",
+      "value": "yuanfeihangwuliu"
+    },
+    {
+      "key": "银捷速递",
+      "value": "yinjiesudi"
+    },
+    {
+      "key": "一统飞鸿",
+      "value": "yitongfeihong"
+    },
+    {
+      "key": "亚风速递",
+      "value": "yafengsudi"
+    },
+    {
+      "key": "易通达",
+      "value": "yitongda"
+    },
+    {
+      "key": "邮必佳",
+      "value": "youbijia"
+    },
+    {
+      "key": "一柒物流",
+      "value": "yiqiguojiwuliu"
+    },
+    {
+      "key": "音素快运",
+      "value": "yinsu"
+    },
+    {
+      "key": "亿领速运",
+      "value": "yilingsuyun"
+    },
+    {
+      "key": "煜嘉物流",
+      "value": "yujiawuliu"
+    },
+    {
+      "key": "英脉物流",
+      "value": "gml"
+    },
+    {
+      "key": "云豹国际货运",
+      "value": "leopard"
+    },
+    {
+      "key": "云南中诚",
+      "value": "czwlyn"
+    },
+    {
+      "key": "优配速运",
+      "value": "sdyoupei"
+    },
+    {
+      "key": "永昌物流",
+      "value": "yongchang"
+    },
+    {
+      "key": "御风速运",
+      "value": "yufeng"
+    },
+    {
+      "key": "亚马逊物流",
+      "value": "yamaxunwuliu"
+    },
+    {
+      "key": "优速通达",
+      "value": "yousutongda"
+    },
+    {
+      "key": "亿顺航",
+      "value": "yishunhang"
+    },
+    {
+      "key": "永旺达快递",
+      "value": "yongwangda"
+    },
+    {
+      "key": "易客满",
+      "value": "ecmscn"
+    },
+    {
+      "key": "英超物流",
+      "value": "yingchao"
+    },
+    {
+      "key": "益递物流",
+      "value": "edlogistics"
+    },
+    {
+      "key": "远洋国际",
+      "value": "yyexpress"
+    },
+    {
+      "key": "一号仓",
+      "value": "onehcang"
+    },
+    {
+      "key": "远成快运",
+      "value": "ycgky"
+    },
+    {
+      "key": "一号线",
+      "value": "lineone"
+    },
+    {
+      "key": "壹品速递",
+      "value": "ypsd"
+    },
+    {
+      "key": "易达通快递",
+      "value": "qexpress"
+    },
+    {
+      "key": "鹰运国际速递",
+      "value": "vipexpress"
+    },
+    {
+      "key": "YLTD",
+      "value": "el56"
+    },
+    {
+      "key": "一运全成物流",
+      "value": "yyqc56"
+    },
+    {
+      "key": "韵丰物流",
+      "value": "yunfeng56"
+    },
+    {
+      "key": "驿扬国际速运",
+      "value": "iyoungspeed"
+    },
+    {
+      "key": "一站通快递",
+      "value": "zgyzt"
+    },
+    {
+      "key": "易优包裹",
+      "value": "eupackage"
+    },
+    {
+      "key": "云达通",
+      "value": "ydglobe"
+    },
+    {
+      "key": "运东西",
+      "value": "yundx"
+    },
+    {
+      "key": "洋包裹",
+      "value": "yangbaoguo"
+    },
+    {
+      "key": "优联吉运",
+      "value": "uluckex"
+    },
+    {
+      "key": "优邦速运",
+      "value": "ubonex"
+    },
+    {
+      "key": "玥玛速运",
+      "value": "yue777"
+    },
+    {
+      "key": "远为快递",
+      "value": "ywexpress"
+    },
+    {
+      "key": "易转运",
+      "value": "ezhuanyuan"
+    },
+    {
+      "key": "中通快递",
+      "value": "zhongtong"
+    },
+    {
+      "key": "宅急送",
+      "value": "zhaijisong"
+    },
+    {
+      "key": "中铁快运",
+      "value": "ztky"
+    },
+    {
+      "key": "中铁物流",
+      "value": "zhongtiewuliu"
+    },
+    {
+      "key": "中邮物流",
+      "value": "zhongyouwuliu"
+    },
+    {
+      "key": "中国东方(COE)",
+      "value": "coe"
+    },
+    {
+      "key": "芝麻开门",
+      "value": "zhimakaimen"
+    },
+    {
+      "key": "中国邮政快递",
+      "value": "youzhengguonei"
+    },
+    {
+      "key": "郑州建华",
+      "value": "zhengzhoujianhua"
+    },
+    {
+      "key": "中速快件",
+      "value": "zhongsukuaidi"
+    },
+    {
+      "key": "中天万运",
+      "value": "zhongtianwanyun"
+    },
+    {
+      "key": "中睿速递",
+      "value": "zhongruisudi"
+    },
+    {
+      "key": "中外运速递",
+      "value": "zhongwaiyun"
+    },
+    {
+      "key": "增益速递",
+      "value": "zengyisudi"
+    },
+    {
+      "key": "郑州速捷",
+      "value": "sujievip"
+    },
+    {
+      "key": "智通物流",
+      "value": "ztong"
+    },
+    {
+      "key": "至诚通达快递",
+      "value": "zhichengtongda"
+    },
+    {
+      "key": "众辉达物流",
+      "value": "zhdwl"
+    },
+    {
+      "key": "直邮易",
+      "value": "kuachangwuliu"
+    },
+    {
+      "key": "中运全速",
+      "value": "topspeedex"
+    },
+    {
+      "key": "中欧快运",
+      "value": "otobv"
+    },
+    {
+      "key": "准实快运",
+      "value": "zsky123"
+    },
+    {
+      "key": "中国翼",
+      "value": "cnws"
+    },
+    {
+      "key": "中宇天地",
+      "value": "zytdscm"
+    },
+    {
+      "key": "转运四方",
+      "value": "zhuanyunsifang"
+    },
+    {
+      "key": "卓烨快递",
+      "value": "hrbzykd"
+    }
+  ]
+}
